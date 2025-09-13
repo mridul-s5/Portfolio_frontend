@@ -37,7 +37,7 @@ const Home = () => {
               Contact Me
             </Link>
             <a
-              href="/Resume Abhay.pdf" // Replace with actual path
+              href="/Resume Portfolio.pdf" // Replace with actual path
               download
               className="bg-white border border-purple-600 text-purple-600 px-6 py-3 rounded-md hover:bg-purple-100 transition"
             >

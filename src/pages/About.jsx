@@ -44,7 +44,7 @@ const About = () => {
           {/* Profile Image */}
           <div className="md:w-1/3 flex justify-center" data-aos="fade-left">
             <img
-              src="https://via.placeholder.com/250"
+              src="Abhay Portfolio Photo.jpg" // Replace with your actual image path
               alt="Profile"
               className="rounded-full w-60 h-60 object-cover shadow-lg border-4 border-white hover:scale-105 transition-transform duration-500"
             />
