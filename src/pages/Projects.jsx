@@ -11,13 +11,21 @@ const projects = [
     link: "https://abhaydeveloper.vercel.app/",
     image: "https://scrimba.com/articles/content/images/2023/01/Safet-Pojskic.png",
   },
-  {
+    {
     id: 2,
-    title: "E-commerce Store",
+    title: "Apni-Dukan Store",
     description: "Full-stack e-commerce store using MERN stack with payment integration.",
     tech: ["React", "Tailwind CSS", "JavaScript,"],
-    link: "https://e-commerce-three-kappa-69.vercel.app/",
-    image: "https://pagecreative.co.uk/wp-content/uploads/2023/10/AdobeStock_223290240-1-2-scaled.jpeg",
+    link: "https://apni-dukan-sable.vercel.app/",
+    image: "https://www.kiksarvr.com/assets/img/Blog-assets/blog9-img2.webp",
+  },
+  {
+    id: 2,
+    title: "Web-Tech Education",
+    description: "Full-stack e-commerce store using MERN stack with payment integration.",
+    tech: ["MongoDB", "Express", "React", "Node.js"],
+    link: "https://webtech-education.vercel.app/",
+    image: "https://aclm.in/wp-content/uploads/2021/08/top11.png",
   },
   {
     id: 3,
@@ -26,6 +34,14 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript"],
     link: "https://game-1-lyart.vercel.app/",
     image: "https://www.shutterstock.com/image-illustration/powerful-acceleration-generic-red-formula-260nw-2529063703.jpg",
+  },
+    {
+    id: 2,
+    title: "E-commerce Store",
+    description: "Full-stack e-commerce store using MERN stack with payment integration.",
+    tech: ["React", "Tailwind CSS", "JavaScript,"],
+    link: "https://e-commerce-three-kappa-69.vercel.app/",
+    image: "https://pagecreative.co.uk/wp-content/uploads/2023/10/AdobeStock_223290240-1-2-scaled.jpeg",
   },
   // {
   //   id: 4,
